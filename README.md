@@ -15,7 +15,7 @@
 [Linear regression](https://en.wikipedia.org/wiki/Linear_regression)
 [Polynomial regression](https://en.wikipedia.org/wiki/Polynomial_regression)
 - Difference
-![Difference](https://user-images.githubusercontent.com/74652429/147239278-d9e5fb70-15f3-4588-a040-daf0587c48e3.png)
+![image](https://user-images.githubusercontent.com/74652429/147241120-a5aa3b12-ebad-45d8-8e80-5b659997f4ea.png)
 - Why using polynomial regression?
 > When plotting all points, that is not a linear form, so we can think of using polynomial regression
 ![Reason](https://user-images.githubusercontent.com/74652429/147239457-09cb23aa-2e6c-4735-b77d-8cc2500cd0b3.png)
